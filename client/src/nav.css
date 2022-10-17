@@ -1,0 +1,32 @@
+.position{
+    position: relative;
+}
+.containerNav h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    color: white;
+}
+.linkss{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0 8rem;
+}
+.mylink ul{
+    display: flex;
+    font-size: 25px;
+    color: white;
+
+}
+.mylink ul li{
+    margin: 1rem;
+}
+.mylink ul li:hover{
+    background-color: rgb(37 99 235 );
+}
+
+.Loginslinks button{
+    margin:1rem ;
+}

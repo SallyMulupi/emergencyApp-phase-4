@@ -30,6 +30,7 @@ const Home = ({ report, onAddReport,user ,onReportDelete}) => {
 
       <div className="displayuserName">
         <h1 className="userdetails">Welcome {user.username}!!</h1>
+        <h1 className="userdetails">Welcome {user.email}!!</h1>
       </div>
 
         <div className="searchbar">
